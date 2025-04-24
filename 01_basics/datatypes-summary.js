@@ -19,6 +19,11 @@ const bigNumber = 3467855335465756345n
 
 // Reference type (Non-Primitive)
 
+
+
+
+// Array, Objects, Functions
+
 const heros = ["shaktiman","doga","superman"];
 let myObj = {
     name : "Hanash Ahad",
@@ -31,6 +36,3 @@ const myFunctions = function(){
 }
 
 console.log(typeof heros);
-
-
-// Array, Objects, Functions
